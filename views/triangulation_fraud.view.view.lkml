@@ -1,5 +1,5 @@
 view: triangulation_fraud {
-  sql_analytic_model_name: triangulation_fraud_demo ;;
+  sql_analytic_model_name: next26boothdemo.triangulation_fraud_demo.triangulation_fraud_graph ;;
 
   # order
   dimension: order_order_id {
